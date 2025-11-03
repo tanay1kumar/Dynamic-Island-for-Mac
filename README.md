@@ -2,7 +2,7 @@ This project was developed initially in a local repository before being uploaded
 
 # dynamic island file manager
 
-macOS app that adds a dynamic island-like interface for managing google drive files
+native macOS app that adds a dynamic island-like interface for managing google drive files
 
 ## what it does
 
